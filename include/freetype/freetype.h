@@ -47,7 +47,7 @@
 #define FREETYPE_PATCH 10
 
 
-#include <ft2build.h>
+#include "ft2build.h"
 #include FT_CONFIG_CONFIG_H
 #include FT_ERRORS_H
 #include FT_TYPES_H
